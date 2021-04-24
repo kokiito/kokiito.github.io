@@ -4,10 +4,40 @@ template: "page"
 socialImage: "/media/image-2.jpg"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+###　自己紹介
+こんにちは！伊藤　皓基です。
+あだ名は「イトー」「いとらん」と呼ばれています。
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+### モチベーション
+少しでも「僕にはできない」という人を減らせたらと思っています。
+その方法は、何か感動できるものに出会う機会を増やすこと（僕にとっては映像と映像を作成するときに使うツールとの出会い）
+だと思います。
+生涯で何か1つ残せたらと思います。
+### 興味
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+- 映像
+- 映像を作るためのツール開発
+- 登山
+- ゲーム（Nier, Apex, Pocker）
+- 物語づくり（詩、小説）
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+いろいろ始めたばかりなので助けてください。
+
+![Icleland Mountain](/media/IM_about.JPG)
+
+### 経歴
+
+- 立命館大学院（2018 ~ 2020）
+  - 児童がプログラミングを通してより創作したくなるシステム環境づくりの研究
+- Aidemy（2020 ~）
+  - 主にフロントエンジニア（インフラとバックも一部・兼任）
+  - 最近やりたいことはフロントのリファクタリング（コード整形・自動テスト）
+  - 実験もしてみたい（プログラミング体験）
+
+### 技術スタック
+
+- JavaScript
+- TypeScript
+- Node.js
+- Kubernetes
+- Docker
