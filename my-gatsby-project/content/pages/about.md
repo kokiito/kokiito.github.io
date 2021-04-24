@@ -32,12 +32,13 @@ socialImage: "/media/image-2.jpg"
 - Aidemy（2020 ~）
   - 主にフロントエンジニア（インフラとバックも一部・兼任）
   - 最近やりたいことはフロントのリファクタリング（コード整形・自動テスト）
-  - 実験もしてみたい（プログラミング体験）
+  - 実験もしてみたい（プログラミングのUX改善）
 
 ### 技術スタック
 
 - JavaScript
 - TypeScript
+- React
 - Node.js
 - Kubernetes
 - Docker
