@@ -1,14 +1,29 @@
 ---
-title: Humane Typography in the Digital Age
+title: 思い立ってHP作りました。
 date: "2017-08-19T22:40:32.169Z"
 template: "post"
 draft: false
-slug: "humane-typography-in-the-digital-age"
-category: "Typography"
+slug: "思い立ってHP作りました。"
+category: "life_dev"
 tags:
-  - "Design"
-  - "Typography"
-  - "Web Development"
-description: "An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts."
-socialImage: "/media/42-line-bible.jpg"
+  - "Life"
+  - "Devlop"
+description: "実用的と非実用的な話"
+socialImage: "/media/IM_page.JPG"
 ---
+
+思い立ったことがありHPをいきおいで作成しました。
+僕は大学院まで勉強が楽しくてだらだら働かずに卒業までいました。
+本当に働きたくなかったのですが、まあ一年間ぐらい働いていろいろ判断してみようと考えていました。
+現時点で一年ぐらい働き、結構楽しく働いていました。
+でも、気になることがあります。
+
+それは実用的と非実用的なことの割合です。
+仕事では結構仕事を覚えてしまい実用的なこと、生産的なことばかり目を
+向けてしまうことが多くなりました。
+
+これは結構自分にとっては辛く、もっと無駄なこと（もしかしたら結果的には将来生産的になるかも）
+の割合を増やしたいです。
+
+なので、このHPで無駄なこと（作りたいものの話、馬主になりたい話、登山、詩など）の話を
+どんどんまとめてやろうと思います。
