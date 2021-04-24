@@ -1,6 +1,6 @@
 ---
 title: 思い立ってHP作りました。
-date: "2017-08-19T22:40:32.169Z"
+date: "2021-04-23T00:00:00.000Z"
 template: "post"
 draft: false
 slug: "思い立ってHP作りました。"
@@ -11,6 +11,8 @@ tags:
 description: "実用的と非実用的な話"
 socialImage: "/media/IM_page.JPG"
 ---
+
+![Icleland Mountain](/media/IM_page.JPG)
 
 思い立ったことがありHPをいきおいで作成しました。
 僕は大学院まで勉強が楽しくてだらだら働かずに卒業までいました。
