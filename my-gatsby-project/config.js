@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://kokiito.github.io',
   pathPrefix: '/',
   title: 'Blog by Koki Ito',
-  subtitle: 'Hi! I\'m Koki. I work in Japn, and be interested in filming and creating tools for filming.',
+  subtitle: 'Hi! I\'m Koki. I work in Japan, and be interested in filming and creating tools for filming.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: 'Koki Ito',
     photo: '/photo.jpg',
-    bio: 'Hi! I\'m Koki. I work in Japn, and be interested in filming and creating tools for filming.',
+    bio: 'Hi! I\'m Koki. I work in Japan, and be interested in filming and creating tools for filming.',
     contacts: {
       email: '',
       facebook: '',
